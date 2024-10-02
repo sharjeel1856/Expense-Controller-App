@@ -69,8 +69,6 @@ To run the app locally, follow these steps:
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 | ![1](https://github.com/user-attachments/assets/cc24b0b6-af21-4be5-95f0-118bc868e97b) | ![2](https://github.com/user-attachments/assets/4d9a29d4-687c-4627-b13a-b1fcf1eaa6bc) | ![3](https://github.com/user-attachments/assets/e76f9b50-6bbf-42d4-afc5-c4299a21cae3) | ![4](https://github.com/user-attachments/assets/2a5b1889-31d5-426f-b2f7-3c75bed997e0) |
 |:---:|:---:|:---:|:---:|
 | ![5](https://github.com/user-attachments/assets/2db57cbf-99dd-4901-96ae-ef4e4012dd9e) | ![6](https://github.com/user-attachments/assets/968392db-a703-4b3c-8462-2f3fad6f4f71) | ![7](https://github.com/user-attachments/assets/7a6f41f4-9e8a-4f7c-b116-100c7bb0c88b) | ![8](https://github.com/user-attachments/assets/d5f3eae6-fbfa-47e6-9a43-afee988419b4) |
